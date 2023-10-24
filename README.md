@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo.
 
-Essa linha eu add direntamente na plataforma do GitHub.
+Essa linha eu add diretamente na plataforma do GitHub.
