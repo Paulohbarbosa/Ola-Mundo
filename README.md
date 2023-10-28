@@ -96,6 +96,7 @@ Não importa o número ele faz a numeração automática;
 - [ ] Contact the media
 
 ```
+- [x] [Palavra]
 - [ ] [Palavra]
 ```
 
